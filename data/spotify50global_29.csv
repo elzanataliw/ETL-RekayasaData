@@ -1,0 +1,51 @@
+,artist,album,track_name,popularity,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+0,Sam Smith,Unholy (feat. Kim Petras),Unholy (feat. Kim Petras),100,3nqQXoyQOWXiESFLlDF1hG,0.714,0.472,2,-7.375,1,0.0864,4.51e-06,0.266,0.238,131.121,156943,4
+1,Taylor Swift,Midnights,Anti-Hero,97,0V3wPSX9ygBnCm8psDIegu,0.637,0.643,4,-6.571,1,0.0519,1.8e-06,0.142,0.533,97.008,200690,4
+2,Drake,Her Loss,Rich Flex,95,1bDbXMyjaUIooNwFE9wn0N,0.561,0.52,11,-9.342,0,0.244,1.86e-06,0.355,0.424,153.15,239360,3
+3,Harry Styles,Harry's House,As It Was,91,4Dvkj6JhhA12EX05fT7y2e,0.52,0.731,6,-5.338,0,0.0557,0.00101,0.311,0.662,173.93,167303,4
+4,Manuel Turizo,La Bachata,La Bachata,97,5ww2BF9slyYgNOk37BlC4u,0.835,0.679,7,-5.329,0,0.0364,1.98e-06,0.218,0.85,124.98,162638,4
+5,David Guetta,I'm Good (Blue),I'm Good (Blue),97,4uUG5RXrOk84mYEfFvj3cK,0.561,0.965,7,-3.673,0,0.0343,7.07e-06,0.371,0.304,128.04,175238,4
+6,Mariah Carey,Merry Christmas,All I Want for Christmas Is You,91,0bYg9bo50gSsH3LtXe2SQn,0.336,0.627,7,-7.463,1,0.0384,0.0,0.0708,0.35,150.273,241107,4
+7,Bizarrap,"Quevedo: Bzrp Music Sessions, Vol. 52","Quevedo: Bzrp Music Sessions, Vol. 52",97,2tTmW7RDtMQtBk7m2rYeSw,0.621,0.782,2,-5.548,1,0.044,0.033,0.23,0.55,128.033,198938,4
+8,Meghan Trainor,Takin' It Back,Made You Look,92,0QHEIqNKsMoOY5urbzN48u,0.838,0.525,10,-3.562,1,0.0665,1.92e-06,0.0771,0.884,144.981,134256,4
+9,Chris Brown,Indigo (Extended),Under The Influence,95,5IgjP7X4th6nMNDh4akUHb,0.733,0.69,9,-5.529,0,0.0427,1.18e-06,0.105,0.31,116.992,184613,4
+10,Jung Kook,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],89,1RDvyOk4WtPCtoqciJwVn8,0.71,0.879,0,-4.218,1,0.0422,0.00142,0.439,0.341,114.993,201391,4
+11,Oliver Tree,Miss You,Miss You,93,73vIOb4Q7YN6HeJTbscRx5,0.587,0.742,6,-6.64,0,0.0529,0.00107,0.146,0.199,145.007,206000,4
+12,Tom Odell,Long Way Down,Another Love,93,3JvKfv6T31zO0ini8iNItO,0.445,0.537,4,-8.532,0,0.04,1.65e-05,0.0944,0.131,122.769,244360,4
+13,Wham!,LAST CHRISTMAS,Last Christmas,87,2FRnf9qhLbvw8fu4IBXx78,0.735,0.478,2,-12.472,1,0.0293,2.48e-06,0.355,0.947,107.682,262960,4
+14,Bad Bunny,Un Verano Sin Ti,Me Porto Bonito,95,6Sq7ltF9Qa7SNFBsV5Cogx,0.911,0.712,1,-5.105,0,0.0817,2.68e-05,0.0933,0.425,92.005,178567,4
+15,Ozuna,OzuTochi,Hey Mor,89,1zsPaEkglFvxjAhrM8yhpr,0.901,0.589,1,-6.713,0,0.289,0.000237,0.0992,0.399,98.002,196600,4
+16,OneRepublic,"I Ain’t Worried (Music From The Motion Picture ""Top Gun: Maverick"")",I Ain't Worried,95,4h9wh7iOZ0GGn8QVp4RAOB,0.704,0.797,0,-5.927,1,0.0475,0.000745,0.0546,0.825,139.994,148486,4
+17,Brenda Lee,Merry Christmas From Brenda Lee,Rockin' Around The Christmas Tree,88,2EjXfH91m7f8HiJN1yQg97,0.589,0.472,8,-8.749,1,0.0502,0.0,0.505,0.898,67.196,126267,4
+18,Stephen Sanchez,Easy On My Eyes,Until I Found You,84,6VhuP99TE6gYNQRJIlAWFD,0.346,0.5,10,-6.097,1,0.0388,0.0,0.189,0.191,202.466,176667,3
+19,Steve Lacy,Gemini Rights,Bad Habit,88,4k6Uh1HXdhtusDW5y8Gbvy,0.686,0.494,1,-7.093,1,0.0355,5.8e-05,0.402,0.7,168.946,232067,4
+20,Bad Bunny,Un Verano Sin Ti,Tití Me Preguntó,95,1IHWl5LamUGEuP4ozKQSXZ,0.65,0.715,5,-5.198,0,0.253,0.000291,0.126,0.187,106.672,243717,4
+21,The Weeknd,Starboy,Die For You,87,2LBqCSwhJGcFQeTHMVGwy3,0.586,0.525,1,-7.163,0,0.0615,0.0,0.134,0.508,133.629,260253,4
+22,Eminem,Encore (Deluxe Version),Mockingbird,90,561jH07mF1jHuk7KlaeF0s,0.637,0.678,0,-3.798,1,0.266,0.0,0.156,0.254,84.039,250760,4
+23,Rema,Calm Down (with Selena Gomez),Calm Down (with Selena Gomez),92,0WtM2NBVQNNJLh6scP13H8,0.801,0.806,11,-5.206,1,0.0381,0.000669,0.114,0.802,106.999,239318,4
+24,Bobby Helms,Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol),Jingle Bell Rock,87,7vQbuQcyTflfCIOu3Uzzya,0.754,0.424,2,-8.463,1,0.0363,0.0,0.0652,0.806,119.705,130973,4
+25,d4vd,Romantic Homicide,Romantic Homicide,93,1xK59OXxi2TAAAbmZK0kBL,0.571,0.544,6,-10.613,1,0.0299,0.00805,0.322,0.216,132.052,132631,4
+26,ROSALÍA,MOTOMAMI +,DESPECHÁ,86,53tfEupEzQRtVFOeZvk7xq,0.914,0.622,7,-6.538,1,0.0892,1.68e-05,0.0632,0.77,130.04,156788,4
+27,Arctic Monkeys,AM,I Wanna Be Yours,92,5XeFesFbtLpXzIVDNQP22n,0.464,0.417,0,-9.345,0,0.0256,0.022,0.0974,0.479,67.528,183956,4
+28,JVKE,this is what ____ feels like (Vol. 1-4),golden hour,88,5odlY52u43F5BjByhxg7wg,0.515,0.593,4,-4.801,1,0.0322,0.162,0.25,0.153,94.467,209260,3
+29,Michael Bublé,Christmas,It's Beginning to Look a Lot like Christmas,76,1rv46mRwDqMEhOBZ7vODg3,0.331,0.223,4,-11.274,1,0.0338,5.92e-06,0.343,0.355,92.896,207200,3
+30,The Neighbourhood,I Love You.,Sweater Weather,92,2QjOHCTQ1Jl3zawyYOpxh6,0.612,0.807,10,-2.81,1,0.0336,0.0177,0.101,0.398,124.053,240400,4
+31,Taylor Swift,Midnights,Midnight Rain,91,3rWDp9tBPQR9z6U5YyRSK4,0.643,0.363,0,-11.738,1,0.0767,5.17e-05,0.115,0.23,139.865,174783,4
+32,Bad Bunny,Un Verano Sin Ti,Efecto,94,5Eax0qFko2dh7Rl2lYs3bx,0.801,0.475,7,-8.797,0,0.0516,1.73e-05,0.0639,0.234,98.047,213061,4
+33,Beyoncé,RENAISSANCE,CUFF IT,93,1xzi1Jcr7mEi9K2RfzLOqS,0.78,0.689,7,-5.668,1,0.141,9.69e-06,0.0698,0.642,115.042,225389,4
+34,Rosa Linn,SNAP PACK,SNAP,92,76OGwb5RA9h4FxQPT33ekc,0.565,0.636,0,-8.198,1,0.0638,9.9e-06,0.447,0.525,170.01,179551,4
+35,Taylor Swift,Midnights,Lavender Haze,91,5jQI2r1RdgtuT8S3iG8zFC,0.733,0.436,10,-10.489,1,0.08,0.000573,0.157,0.0976,96.985,202396,4
+36,Bad Bunny,Un Verano Sin Ti,Ojitos Lindos,93,3k3NWokhRRkEPhCzPmV8TW,0.647,0.686,3,-5.745,0,0.0413,1.34e-06,0.528,0.268,79.928,258299,4
+37,Joji,SMITHEREENS,Glimpse of Us,83,4ewazQLXFTDC8XvCbhvtXs,0.44,0.317,8,-9.258,1,0.0531,4.78e-06,0.141,0.268,169.914,233456,3
+38,Shakira,Monotonía,Monotonía,92,6G12ZafqofSq7YtrMqUm76,0.873,0.695,0,-4.207,0,0.0459,1.23e-06,0.211,0.823,131.963,158805,4
+39,Ariana Grande,Santa Tell Me,Santa Tell Me,86,0lizgQ7Qw35od7CYaoMBZb,0.525,0.621,7,-7.364,1,0.116,0.0,0.294,0.591,191.9,204093,4
+40,Rihanna,Black Panther: Wakanda Forever - Music From and Inspired By,Lift Me Up,76,6sCvvleqKbeyOkQDieBYgp,0.247,0.299,9,-6.083,1,0.0315,0.0,0.131,0.172,177.115,196520,4
+41,d4vd,Here With Me,Here With Me,88,78Sw5GDo6AlGwTwanjXbGh,0.574,0.469,4,-8.209,1,0.0254,9.21e-05,0.128,0.288,132.023,242485,4
+42,Feid,FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM,Feliz Cumpleaños Ferxxo,86,2CeKVsFFXG4QzA415QygGb,0.865,0.573,5,-5.501,1,0.0678,0.0,0.305,0.563,94.999,155960,4
+43,Lil Uzi Vert,Just Wanna Rock,Just Wanna Rock,89,4FyesJzVpA39hbYvcseO2d,0.486,0.545,11,-7.924,1,0.0336,0.00474,0.0642,0.0385,150.187,123891,4
+44,Imagine Dragons,Mercury - Acts 1 & 2,Bones,85,54ipXppHLA8U4yqpOFTUhr,0.772,0.75,5,-3.67,0,0.0455,0.0,0.074,0.587,114.061,165265,4
+45,Glass Animals,Dreamland (+ Bonus Levels),Heat Waves,86,02MWAaffLxlfxAUY7c5dvx,0.761,0.525,11,-6.9,1,0.0944,6.7e-06,0.0921,0.531,80.87,238805,4
+46,Joji,SMITHEREENS,Die For You,90,26hOm7dTtBi0TdpDGl141t,0.472,0.518,8,-7.379,1,0.051,0.127,0.289,0.154,147.805,211667,4
+47,The Kid LAROI,F*CK LOVE 3: OVER YOU,STAY (with Justin Bieber),86,5PjdY0CKGZdEuoNab3yDmX,0.591,0.764,1,-5.484,1,0.0483,0.0,0.103,0.478,169.928,141806,4
+48,Taylor Swift,Midnights,"You're On Your Own, Kid",89,4D7BCuvgdJlYvlX5WlN54t,0.696,0.396,2,-10.289,1,0.0656,5.2e-06,0.125,0.38,120.041,194207,4
+49,King,Champagne Talk,Maan Meri Jaan,82,1418IuVKQPTYqt7QNJ9RXN,0.698,0.505,6,-8.242,0,0.0356,0.0,0.0995,0.396,95.868,194654,4

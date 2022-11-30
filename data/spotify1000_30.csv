@@ -1,0 +1,101 @@
+,artist,album,track_name,popularity,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+0,Queen,A Night At The Opera (2011 Remaster),Bohemian Rhapsody - Remastered 2011,81,4u7EnebtmKWzUH433cf5Qv,0.414,0.404,0,-9.928,0,0.0499,0,0.3,0.224,71.105,354320,4
+1,Guns N' Roses,Appetite For Destruction,Sweet Child O' Mine,83,7o2CTH4ctstm8TNelqjb51,0.454,0.91,6,-7.766,1,0.0448,0.0996,0.116,0.629,125.116,354520,4
+2,Nirvana,Nevermind (Deluxe Edition),Smells Like Teen Spirit,82,4CeeEOM32jQcH3eN9Q2dGj,0.502,0.912,1,-4.556,1,0.0564,0.000173,0.106,0.72,116.761,301920,4
+3,John Lennon,Imagine,Imagine - Remastered 2010,77,7pKfPomDEeI4TPT6EOYjn9,0.547,0.257,0,-12.358,1,0.0252,0.183,0.0935,0.169,75.752,187867,4
+4,John Farnham,Collections,You're the Voice,61,5NwkWwfRJaT55hEPtCmJHx,0.369,0.762,10,-8.993,1,0.0464,2.8e-05,0.579,0.644,84.957,302107,4
+5,Led Zeppelin,Led Zeppelin IV (Deluxe Edition),Stairway to Heaven - Remaster,78,5CQ30WqJwcep0pYcV4AMNc,0.338,0.34,9,-12.049,0,0.0339,0.0032,0.116,0.197,82.433,482830,4
+6,Prince,Purple Rain,Purple Rain,74,54X78diSLoUDI3joC2bjMz,0.367,0.452,10,-10.422,1,0.0307,0.00228,0.689,0.189,113.066,520787,4
+7,AC/DC,High Voltage,It's a Long Way to the Top (If You Wanna Rock 'N' Roll),71,7nemcVsXVFZF01iqpIIo2Y,0.456,0.863,3,-3.551,1,0.0894,0.0538,0.0553,0.532,135.962,301227,4
+8,Michael Jackson,The Essential Michael Jackson,Thriller - Single Version,68,20efeySIfZoiSaISGLBbNs,0.777,0.818,11,-5.64,1,0.0462,2.98e-05,0.714,0.847,118.405,312413,4
+9,The Rolling Stones,Out Of Our Heads (Remastered),(I Can't Get No) Satisfaction - Mono Version,76,2PzU4IB8Dr6mxV3lHuaG34,0.723,0.863,2,-7.89,1,0.0338,0.0317,0.128,0.931,136.302,222813,4
+10,ABBA,Arrival,Dancing Queen,82,0GjEhVFGZW8afUYGChu3Rr,0.543,0.87,9,-6.514,1,0.0428,0.000939,0.792,0.754,100.804,230400,4
+11,Bon Jovi,Slippery When Wet,Livin' On A Prayer,84,37ZJ0p5Jm13JPevGcx4SkF,0.532,0.887,0,-3.757,1,0.0335,0.000214,0.294,0.795,122.511,249293,4
+12,The Easybeats,Friday On My Mind,Friday On My Mind,59,2CT08rpgdut8qQs7IAzMGi,0.374,0.991,9,-1.101,1,0.0813,0.000719,0.0929,0.51,95.105,163293,4
+13,Madonna,Like a Virgin (Reissue),Like a Virgin,71,1ZPlNanZsJSPK5h9YZZFbZ,0.771,0.655,3,-10.842,0,0.0372,0.00197,0.0685,0.97,119.747,218627,4
+14,The Beach Boys,Smiley Smile (Remastered),Good Vibrations - Remastered 2001,69,5t9KYe0Fhd5cW6UYT4qP8f,0.396,0.473,10,-7.67,0,0.0345,0.000124,0.109,0.385,133.449,219027,4
+15,Bob Dylan,Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture),Knockin' On Heaven's Door,73,6HSXNV0b4M4cLJ7ljgVVeh,0.513,0.396,7,-13.061,1,0.0299,0.177,0.11,0.229,140.208,149880,4
+16,Eagles,Hotel California (2013 Remaster),Hotel California - 2013 Remaster,83,40riOy7x9W7GXjyGp4pjAv,0.579,0.508,2,-9.484,1,0.027,0.000494,0.0575,0.609,147.125,391376,4
+17,Wham!,The Final,Careless Whisper,59,2R7858bg0GHuBBxjTyOL7N,0.583,0.545,2,-11.698,0,0.0351,0,0.133,0.801,153.249,302600,4
+18,U2,The Joshua Tree (Deluxe Edition Remastered),I Still Haven't Found What I'm Looking For,77,6wpGqhRvJGNNXwWlPmkMyO,0.564,0.774,1,-9.424,1,0.0368,0.00191,0.0861,0.657,100.894,277477,4
+19,Aretha Franklin,I Never Loved a Man the Way I Love You,Respect,73,7s25THrKz86DM225dOYwnr,0.805,0.558,0,-5.226,1,0.041,2.2e-05,0.0546,0.965,114.95,147600,4
+20,Whitney Houston,The Bodyguard - Original Soundtrack Album,I Will Always Love You,76,4eHbdreAnSOrDDsFfc4Fpm,0.332,0.214,4,-12.518,1,0.0349,5.62e-06,0.0839,0.11,67.531,271093,4
+21,Gotye,Making Mirrors,Somebody That I Used To Know,79,1qDrWA6lyx8cLECdZE7TV7,0.865,0.521,0,-6.932,1,0.0371,0.000115,0.0989,0.748,129.059,244885,4
+22,Deep Purple,Machine Head (Remastered),Smoke On The Water - Remastered 2012,72,5MMnwYs0hIxkENRsbkWJ2G,0.598,0.676,0,-9.211,1,0.0279,0.225,0.112,0.805,114.169,340742,4
+23,Crowded House,The Very Very Best Of Crowded House,Better Be Home Soon,43,4zVyMSnXjxM734u4SQTqVx,0.445,0.49,0,-8.807,1,0.0264,1.47e-06,0.0964,0.342,93.61,188050,4
+24,The Doors,The Doors (50th Anniversary Deluxe Edition),Light My Fire - 2017 Remaster,37,6l8BhUGXyQWFGWJY5tohDC,0.407,0.565,3,-11.487,0,0.0322,0.000142,0.105,0.502,125.096,430453,4
+25,Men At Work,The Best Of Men At Work: Contraband,Down Under,71,46RVKt5Edm1zl0rXhPJZxz,0.746,0.79,11,-4.7,0,0.0257,0.0261,0.0534,0.891,107.231,220867,4
+26,Oasis,(What's The Story) Morning Glory? [Remastered],Wonderwall - Remastered,77,5qqabIl2vWzo9ApSC317sa,0.378,0.896,2,-4.066,1,0.0407,0,0.194,0.469,174.302,258773,4
+27,Marvin Gaye,What's Going On - 40th Anniversary (Super Deluxe),What's Going On,70,3Um9toULmYFGCpvaIPFw7l,0.283,0.716,1,-9.632,0,0.0986,0,0.399,0.828,201.96,233000,4
+28,Cold Chisel,The Best of Cold Chisel - All for You,Khe Sanh - 2011 Remastered,63,0frIZMaQwtdV4Ee8nhB1te,0.474,0.918,7,-4.21,1,0.177,0,0.238,0.655,164.049,254045,4
+29,Bee Gees,Tales From The Brothers Gibb,Stayin Alive,79,5ubvP9oKmxLUVq506fgLhk,0.702,0.773,10,-9.256,0,0.0343,0.00871,0.147,0.953,103.564,285373,4
+30,Beyoncé,I AM...SASHA FIERCE,Single Ladies (Put a Ring on It),67,557un1HgwYMuqfWGSTmnxw,0.426,0.584,1,-5.293,1,0.296,0,0.192,0.272,193.438,192587,4
+31,Various Artists,Virgin Records: 40 Years Of Disruptions,Wannabe,43,0n6FMFq5bE22tNTmd6L9U4,0.764,0.842,11,-6.923,1,0.0326,0,0.117,0.863,110.029,172720,4
+32,Stevie Wonder,Talking Book (Reissue),Superstition,67,4N0TP4Rmj6QQezWV88ARNJ,0.611,0.578,1,-14.171,1,0.0676,0.0219,0.0983,0.884,100.625,266133,4
+33,Kylie Minogue,Fever,Can't Get You out of My Head,74,3E7ZwUMJFqpsDOJzEkBrQ7,0.766,0.563,9,-7.516,0,0.0339,0.683,0.115,0.964,126.007,230640,4
+34,Red Hot Chili Peppers,Blood Sugar Sex Magik (Deluxe Edition),Under the Bridge,81,3d9DChrdc6BOeFsbrZ3Is0,0.559,0.345,4,-13.496,1,0.0459,0.000105,0.141,0.458,84.581,264307,4
+35,Meat Loaf,Bat Out Of Hell,You Took The Words Right Out of My Mouth (Hot Summer Night),59,7wawEkN4nhPqSBWleGvdxa,0.459,0.681,2,-8.773,1,0.0794,0,0.498,0.68,125.02,304440,4
+36,Culture Club,Colour By Numbers,Karma Chameleon,60,3XDeeP9wBZzGhIPZmLfEEx,0.661,0.552,10,-12.385,1,0.0337,0,0.206,0.928,92.056,252760,4
+37,Robbie Williams,Angels,Angels,61,7CKbqqrs0AS1si1ZgaQdcj,0.431,0.59,4,-6.362,1,0.0284,1.11e-05,0.0981,0.257,150.193,265333,4
+38,Fleetwood Mac,Fleetwood Mac,Rhiannon,72,05oETzWbd4SI33qK2gbJfR,0.723,0.49,9,-14.745,0,0.0296,0.0946,0.0923,0.795,129.012,252773,4
+39,Metallica,Metallica,Enter Sandman,80,5sICkBXVmaCQk5aISGR3x1,0.577,0.828,6,-8.691,0,0.0298,0.0114,0.0581,0.604,123.257,331267,4
+40,Elvis Presley,Elvis' Golden Records,Don't Be Cruel,57,01u6AEzGbGbQyYVdxajxqk,0.697,0.55,2,-11.496,1,0.179,3.44e-05,0.0907,0.844,84.802,122893,4
+41,INXS,INXS Remastered,Need You Tonight,51,1sR4aKaHpLrc9u7g4ii90U,0.795,0.63,10,-7.217,0,0.0841,0.575,0.0894,0.785,108.701,181107,4
+42,David Bowie,David Bowie (aka Space Oddity) [2015 Remaster],Space Oddity - 2015 Remaster,71,72Z17vmmeQKAg8bptWvpVG,0.31,0.403,0,-13.664,1,0.0326,9.27e-05,0.139,0.466,134.48,318027,4
+43,Jeff Buckley,Grace (Legacy Edition),Last Goodbye,59,0y5CnV2idm2KkQEudDjfDT,0.539,0.827,2,-5.045,1,0.038,0.000425,0.233,0.523,86.922,275720,4
+44,Cyndi Lauper,She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition),Girls Just Want to Have Fun,66,2zjt2hHBbiv5SuxYg8Z7eP,0.707,0.788,6,-5.269,1,0.0333,0.000571,0.308,0.746,120.465,238120,4
+45,Pink Floyd,The Wall,"Another Brick in the Wall, Pt. 2",76,4gMgiXfqyzZLMhsksGmbQV,0.693,0.394,0,-15.882,1,0.0428,0.000694,0.247,0.721,104.114,238747,4
+46,Yothu Yindi,Healing Stone - The Best of Yothu Yindi,Treaty - Radio Mix,22,5lLG6WZWtUr54BBau9ijbb,0.706,0.836,4,-10.919,0,0.0478,0.00192,0.365,0.826,122.302,243933,4
+47,Don McLean,The Best Of Don McLean,American Pie,66,2QgWuCtBpNIpl5trmKCxRf,0.526,0.509,7,-10.893,1,0.0628,0,0.144,0.497,138.318,515867,4
+48,Sinéad O'Connor,I Do Not Want What I Haven't Got,Nothing Compares 2 U,73,5GHY1DFWKz3Prg2V0Iodqo,0.512,0.574,5,-7.016,1,0.0273,2.31e-05,0.105,0.161,119.917,280040,4
+49,Carly Simon,No Secrets,You're so Vain,73,2DnJjbjNTV9Nd5NOa1KGba,0.659,0.678,0,-8.18,1,0.0313,6.69e-06,0.0784,0.647,106.186,258411,4
+50,Jimi Hendrix,Electric Ladyland,All Along the Watchtower,76,2aoo2jlRnM3A0NyLQqMN2f,0.438,0.805,8,-6.237,1,0.0624,5.69e-05,0.0842,0.564,113.253,240800,4
+51,Green Day,Nimrod,Good Riddance (Time of Your Life),76,6ORqU0bHbVCRjXm9AjyHyZ,0.475,0.432,7,-7.844,1,0.0302,0,0.161,0.648,94.605,153467,4
+52,Blondie,Best Of Blondie,Call Me,58,0vLwL4xuJ3s7SeaCdvMqkY,0.551,0.628,2,-13.799,1,0.036,0.000194,0.151,0.777,142.167,212893,4
+53,Mark Ronson,Uptown Special,Uptown Funk (feat. Bruno Mars),82,32OlwWuMpZ6b0aN2RZOeMS,0.856,0.609,0,-7.223,1,0.0824,8.15e-05,0.0344,0.928,114.988,269667,4
+54,The Jacksons,The Very Best Of The Jacksons and Jackson 5,Blame It on the Boogie,46,2Cm7WEVdiXiWSjfEBHFtRu,0.774,0.747,8,-7.302,1,0.0928,0,0.112,0.881,113.298,210373,4
+55,Paul Simon,Graceland (25th Anniversary Deluxe Edition),You Can Call Me Al,74,0qxYx4F3vm1AOnfux6dDxP,0.776,0.763,5,-8.124,1,0.0534,0.00647,0.077,0.82,128.433,280000,4
+56,Hunters & Collectors,Human Frailty,Throw Your Arms Around Me,34,3rN42dIJsHhcpMP7guOeeo,0.576,0.764,4,-5.731,1,0.0264,0.0063,0.297,0.923,113.011,233493,4
+57,Billy Joel,The Essential Billy Joel,Piano Man,65,3FCto7hnn1shUyZL42YgfO,0.334,0.472,0,-8.791,1,0.0277,3.62e-06,0.317,0.431,179.173,336093,3
+58,Jimmy Barnes,For The Working Class Man 25,Working Class Man - David Nicholas Mix,39,6yFftsAO3CSxyeDkqSA4bV,0.373,0.938,11,-3.913,1,0.0998,5.5e-05,0.155,0.39,138.277,250400,4
+59,Eminem,Curtain Call (Deluxe),The Real Slim Shady,87,3yfqSUWxFvZELEM4PmlwIR,0.949,0.661,5,-4.244,0,0.0572,0,0.0454,0.76,104.504,284200,4
+60,Joy Division,The Best Of,Love Will Tear Us Apart,65,2JO3HwMRPeya8bXbtbyPcf,0.443,0.956,2,-6.198,1,0.0511,0.825,0.135,0.909,146.754,206867,4
+61,Savage Garden,Savage Garden,Truly Madly Deeply,73,013AWvizllIUEC2FOBzOnh,0.555,0.698,0,-8.874,1,0.0287,0,0.0851,0.816,168.12,277267,4
+62,Phil Collins,Face Value (Deluxe Editon),In The Air Tonight - 2015 Remastered,76,18AXbzPzBS8Y3AkgSxzJPb,0.446,0.239,0,-13.945,1,0.0316,4.1e-06,0.0697,0.298,189.507,336453,4
+63,Britney Spears,Oops!... I Did It Again,Oops!...I Did It Again,78,6naxalmIoLFWR0siv8dnQQ,0.751,0.834,1,-5.444,0,0.0437,1.77e-05,0.355,0.894,95.053,211160,4
+64,The Knack,Get The Knack,My Sharona,73,1HOMkjp0nHMaTnfAkslCQj,0.586,0.7,0,-9.558,1,0.0363,0.00125,0.0318,0.897,147.245,295400,4
+65,R.E.M.,In Time: The Best Of R.E.M. 1988-2003,Losing My Religion,83,31AOj9sFz2gM0O3hMARRBx,0.666,0.855,9,-5.051,0,0.0295,1.2e-06,0.0987,0.803,125.639,268427,4
+66,Elton John,Madman Across The Water,Tiny Dancer,76,2TVxnKdb3tqe1nhQWwwZCO,0.414,0.428,0,-11.097,1,0.0278,0.000243,0.148,0.282,145.075,377093,4
+67,Bruce Springsteen,Born In The U.S.A.,Born in the U.S.A.,73,0dOg1ySSI7NkpAe89Zo0b9,0.398,0.952,4,-6.042,1,0.061,7.75e-05,0.1,0.584,122.093,278680,4
+68,Various Artists,RnB Fridays,Let's Talk About Sex,60,6hTBP6QLwJdxbKyLlLXrGo,0.863,0.543,6,-13.497,1,0.13,0,0.241,0.799,106.929,213267,4
+69,Daddy Cool,Daddy Who? Daddy Cool (40th Anniversary Edition),Eagle Rock - 2011 Remaster,59,2nCXuFS4Dt4BpHkxA9rhPL,0.618,0.776,2,-5.16,1,0.0402,5.35e-05,0.0808,0.674,125.536,250067,4
+70,Powderfinger,Odyssey Number Five,My Happiness,64,2pxxVkNhrRST8fpgA12ru8,0.445,0.823,0,-5.415,1,0.0302,0,0.43,0.487,85.935,276627,4
+71,Paul McCartney,Back In The World,Hey Jude - Live,32,1OtqunyxPcNrR47KTnJwtD,0.227,0.967,5,-2.757,1,0.0827,0.000372,0.925,0.31,151.401,455560,4
+72,Pearl Jam,Ten,Alive,75,1L94M3KIu7QluZe63g64rv,0.284,0.875,11,-6.069,0,0.0422,0.000461,0.402,0.595,75.009,340907,4
+73,Adele,21,Rolling in the Deep,80,4OSBTYWVwsQhGLF9NHvIbR,0.73,0.769,8,-5.114,1,0.0298,0,0.0473,0.507,104.948,228093,4
+74,Midnight Oil,20000 Watt RSL - The Midnight Oil Collection,Beds Are Burning - Remastered,60,6Nabz5Gsy80XL0MJoOmgF8,0.754,0.496,0,-8.7,1,0.0351,0.000152,0.0871,0.341,119.186,258173,4
+75,Radiohead,Pablo Honey,Creep,85,70LcF31zb1H0PyJoS1Sx1r,0.515,0.43,7,-9.935,1,0.0372,0.000133,0.129,0.104,91.844,238640,4
+76,The Clash,London Calling (Remastered),London Calling - Remastered,72,5jzma6gCzYtKB1DbEwFZKH,0.651,0.801,0,-7.34,1,0.0514,0,0.0825,0.776,133.769,200480,4
+77,Take That,Nobody Else (Deluxe),Back for Good - Radio Mix,70,6vcdzohhBSbNdsZBh5IRpQ,0.601,0.504,5,-9.761,1,0.0284,0,0.137,0.564,78.986,242267,4
+78,ICEHOUSE,White Heat: 30 Hits,Great Southern Land,61,3OmEIZ6bYHqlReQ1YLaRHV,0.719,0.842,9,-5.603,1,0.0284,0.000218,0.0697,0.421,120.147,317240,4
+79,Coldplay,A Rush of Blood to the Head,Clocks,81,0BCPKOYdS2jbQ8iyB56Zns,0.577,0.749,5,-7.215,0,0.0279,0.0115,0.183,0.255,130.97,307880,4
+80,Gloria Gaynor,I Will Survive (Rerecorded),I Will Survive - Rerecorded,56,2a1MrtxYybqFV1Ow8VJ1dW,0.673,0.752,9,-7.978,0,0.0491,0,0.112,0.576,120.041,265027,4
+81,Fugees,The Score,Killing Me Softly With His Song,77,0Q0IVlqMV64kNLlwjPj0Hl,0.765,0.29,4,-17.117,0,0.139,0,0.571,0.506,92.409,298773,4
+82,The Police,Synchronicity (Remastered),Every Breath You Take,85,1JSTJqkT5qHq8MDJnJbRE1,0.82,0.452,1,-9.796,1,0.0348,0.00294,0.0714,0.74,117.401,253920,4
+83,Eric Clapton,Unplugged (Deluxe Edition),"Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",66,3UqHlIBI771FNCiLY5MKrp,0.694,0.331,9,-13.0,1,0.0284,0.00235,0.707,0.458,79.055,280000,4
+84,Duran Duran,Duran Duran (Deluxe Edition),Girls on Film - 2010 Remaster,63,4EFkvOhgAmlHEfDfvfSoh5,0.725,0.859,7,-6.208,1,0.0636,0.0137,0.048,0.53,131.697,212853,4
+85,Russell Morris,Fundamentalist,The Real Thing - Acoustic,12,12mrQ83QIJYE4Crc4xAkhE,0.433,0.719,2,-5.164,1,0.0354,8.83e-05,0.317,0.414,165.932,274800,4
+86,Hanson,MmmBop : The Collection,MMMBop,69,0lnxrQAd9ZxbhBBe7d8FO8,0.683,0.937,9,-6.335,1,0.0449,0.0046,0.07,0.619,104.872,268653,4
+87,Foo Fighters,The Colour And The Shape,Everlong,83,5UWwZ5lm5PKu6eKsHAGxOk,0.413,0.881,11,-5.541,0,0.0367,0.000308,0.0805,0.364,158.066,250547,4
+88,Wham!,Make It Big,Wake Me Up Before You Go-Go,79,0ikz6tENMONtK6qGkOrU3c,0.62,0.573,0,-11.893,1,0.0423,0,0.0607,0.897,81.548,231333,4
+89,Amy Winehouse,Back To Black,Rehab,72,3N4DI1vuTSX1tz7fa2NQZw,0.407,0.558,0,-13.609,1,0.0552,1.51e-06,0.34,0.777,71.815,214947,4
+90,Lenny Kravitz,Are You Gonna Go My Way,Are You Gonna Go My Way,74,45Ia1U4KtIjAPPU7Wv1Sea,0.619,0.67,11,-10.322,0,0.0353,0.0109,0.331,0.777,129.269,211933,4
+91,The Who,My Generation (Remastered Mono Version),My Generation - Stereo Version,64,4u9f8hqstB7iITDJNzKhQx,0.412,0.782,2,-9.186,0,0.058,0.00822,0.0775,0.705,96.732,198707,4
+92,The Verve,Urban Hymns,Bitter Sweet Symphony,79,57iDDD9N9tTWe75x6qhStw,0.356,0.917,9,-6.006,1,0.0479,0,0.406,0.518,171.176,357267,4
+93,Silverchair,Young Modern,Straight Lines,58,5uPO2eBKEdmBT3XtZ76VVa,0.543,0.655,1,-6.392,1,0.0289,0.00237,0.109,0.165,127.471,258413,4
+94,Alanis Morissette,The Collection (Standard Edition),You Oughta Know,52,17ZAZ24Eyh5fKqQ06u4R3d,0.641,0.861,4,-6.9,1,0.0697,0,0.868,0.473,105.316,249760,4
+95,Michael Jackson,Thriller 25 Super Deluxe Edition,Billie Jean,83,5ChkMS8OtdzJeqyybCc9R5,0.92,0.654,11,-3.051,0,0.0401,0.0153,0.036,0.847,117.046,293827,4
+96,Ed Sheeran,x (Deluxe Edition),Thinking out Loud,83,34gCuhDGsG4bRPIf9bb02f,0.781,0.445,2,-6.061,1,0.0295,0,0.184,0.591,78.998,281560,4
+97,Neil Diamond,Sweet Caroline,Sweet Caroline,77,62AuGbAkt8Ox2IrFFb8GKV,0.529,0.127,11,-16.066,1,0.0274,0.000109,0.237,0.578,63.05,203573,4
+98,Dire Straits,Brothers In Arms (Remastered),Money For Nothing - Remastered 1996,66,4nFNJmjfgBF7jwv2oBC45b,0.674,0.649,2,-9.321,0,0.0356,0.000766,0.0644,0.645,134.212,505333,4
+99,Blur,Blur: The Best Of,Song 2,67,3GfOAdcoc3X5GPiiXmpBjK,0.658,0.709,8,-6.736,1,0.0904,0.00447,0.0657,0.855,129.701,121880,4

@@ -1,0 +1,51 @@
+,artist,album,track_name,popularity,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+0,Hindia,Menari Dengan Bayangan,Evaluasi,80,2dIBMHByUGcNPzmYBJ6OAj,0.609,0.966,7,-4.469,1,0.0571,2.83e-06,0.304,0.505,102.014,194469,4
+1,d4vd,Here With Me,Here With Me,88,78Sw5GDo6AlGwTwanjXbGh,0.574,0.469,4,-8.209,1,0.0254,9.21e-05,0.128,0.288,132.023,242485,4
+2,Mario G klau,Semata Karenamu,Semata Karenamu,74,4z6FksNI6MLCDTHrNJXhO0,0.603,0.325,3,-11.683,1,0.0456,0.0,0.113,0.323,123.759,278500,4
+3,Feby Putri,Runtuh,Runtuh,80,6Hii26x3qDErVitnGW8QtO,0.593,0.287,3,-13.164,1,0.0289,0.000136,0.119,0.191,127.783,223974,4
+4,Budi Doremi,Tak Kan Hilang,Tak Kan Hilang,75,1USA6DXJ1qsucoKnDu4vnu,0.527,0.258,4,-9.499,1,0.0319,0.000172,0.148,0.347,139.928,241714,4
+5,Soegi Bornean,Asmalibrasi,Asmalibrasi,80,3TFdXrYIubXABQh0CxIiSs,0.721,0.565,4,-6.208,1,0.0292,5.48e-06,0.0973,0.794,139.941,254862,4
+6,Stacey Ryan,Fall In Love Alone,Fall In Love Alone,83,5xwBIieMMFUmLDgvG4DjFe,0.676,0.625,7,-5.455,0,0.0711,0.000119,0.127,0.522,171.883,205428,4
+7,Lyodra,Sang Dewi,Sang Dewi,80,5fDCy4Hse30ZsjaTUGKVh5,0.339,0.58,6,-5.426,1,0.0319,2.15e-05,0.421,0.319,81.857,247994,4
+8,Awdella,Tertawan Hati,Tertawan Hati,76,3i0h88q1HBtbdIg2bPxs54,0.319,0.432,6,-5.831,1,0.0317,0.0,0.108,0.244,128.244,237864,4
+9,Stephen Sanchez,Easy On My Eyes,Until I Found You,84,6VhuP99TE6gYNQRJIlAWFD,0.346,0.5,10,-6.097,1,0.0388,0.0,0.189,0.191,202.466,176667,3
+10,Mahalini,Sisa Rasa,Sisa Rasa,79,6pmo9ha8iOPZc5lxPU9o8w,0.488,0.405,8,-6.324,0,0.0302,6.86e-06,0.108,0.152,122.049,254863,4
+11,Fabio Asher,Rumah Singgah,Rumah Singgah,79,3w75Uvn1cojNlBhQoxpVP3,0.466,0.228,8,-10.666,1,0.0305,0.0,0.107,0.366,77.982,246731,4
+12,Tulus,Manusia,Hati-Hati di Jalan,79,2hHeGD57S0BcopfVcmehdl,0.643,0.436,6,-11.322,1,0.0357,0.0889,0.115,0.755,71.969,242000,4
+13,Mahalini,Kisah Sempurna,Kisah Sempurna,79,6gB7kLGZNkf5tkvWkzSGKR,0.537,0.486,11,-8.521,1,0.0336,1.65e-05,0.0817,0.0861,122.099,276019,4
+14,Keisya Levronka,Tak Ingin Usai,Tak Ingin Usai,79,1b0aDgrG775i4sPQgJGmkU,0.49,0.398,0,-7.712,1,0.0266,0.000187,0.114,0.136,129.772,278500,3
+15,Andmesh,"Andaikan Kau Datang (From ""Miracle in Cell No. 7"")","Andaikan Kau Datang - From ""Miracle in Cell No. 7""",78,7mZxM64cMYQdx2vopaGrDf,0.323,0.126,9,-12.562,1,0.034,1.01e-06,0.11,0.322,84.881,247464,3
+16,Tulus,Monokrom,Monokrom,77,4GfK1qOF3uBWidbPlTCQRL,0.534,0.462,6,-9.383,1,0.0326,5.59e-06,0.0974,0.519,88.046,214567,4
+17,Ziva Magnolya,Magnolya,Pilihan Yang Terbaik,78,7BhRGeqNpBw1QilknM0svo,0.49,0.287,3,-9.003,1,0.0394,0.000391,0.131,0.197,120.702,234200,4
+18,Andra & The Backbone,Andra & The Backbone,Sempurna,77,2UgCs0i0rNHUH2jKE5NZHE,0.358,0.32,4,-9.946,1,0.0308,0.0,0.105,0.384,115.499,268423,3
+19,One Direction,Midnight Memories (Deluxe),Right Now,79,1dQQ2QlnvXUehsRUrukKmf,0.645,0.78,8,-5.165,1,0.0319,0.0,0.0919,0.372,120.008,200400,4
+20,Hal,Perspektif,L,77,5zsVcDTZEKISPTCLYiTdwb,0.656,0.364,2,-6.877,1,0.0325,7.67e-05,0.0982,0.487,152.959,220852,4
+21,Yura Yunita,Tutur Batin,Dunia Tipu-Tipu,78,0mMqopQJOWADJSPRMYkvTF,0.48,0.325,1,-8.513,1,0.0354,1.52e-05,0.112,0.619,111.774,218735,5
+22,Juicy Luicy,Sentimental,Lantas,76,1ZPVEo8RfmrEz8YAD5n6rW,0.588,0.311,8,-8.143,1,0.025,0.0,0.352,0.545,86.022,234204,4
+23,Taylor Swift,Midnights,Anti-Hero,97,0V3wPSX9ygBnCm8psDIegu,0.637,0.643,4,-6.571,1,0.0519,1.8e-06,0.142,0.533,97.008,200690,4
+24,Virgoun,Selamat (Selamat Tinggal),Selamat (Selamat Tinggal),75,1mruWrUwAVe2XkksUQiaHK,0.361,0.581,0,-8.502,1,0.0302,5.42e-06,0.118,0.372,79.59,313671,4
+25,Reality Club,Anything You Want,Anything You Want,76,2QB8FwOszur18Ai7t2XnNi,0.21,0.58,5,-7.766,1,0.0307,0.00827,0.391,0.313,175.769,236493,4
+26,Arctic Monkeys,AM,I Wanna Be Yours,92,5XeFesFbtLpXzIVDNQP22n,0.464,0.417,0,-9.345,0,0.0256,0.022,0.0974,0.479,67.528,183956,4
+27,yuji,Old Love,Old Love,82,3W4U7TEgILGpq0EmquurtH,0.478,0.367,11,-10.513,1,0.0283,0.0,0.124,0.359,141.95,249382,3
+28,Yura Yunita,Tutur Batin,Tutur Batin,76,1k1e4Amkn7hIFrEthtazqT,0.576,0.329,10,-8.87,1,0.0487,0.000671,0.108,0.397,72.91,215591,4
+29,Joji,SMITHEREENS,Glimpse of Us,83,4ewazQLXFTDC8XvCbhvtXs,0.44,0.317,8,-9.258,1,0.0531,4.78e-06,0.141,0.268,169.914,233456,3
+30,Rex Orange County,WHO CARES?,THE SHADE,84,1gH1h30wkQdd9zhY3j7a8T,0.898,0.509,5,-7.973,1,0.062,0.0,0.0876,0.727,119.869,181507,4
+31,The Walters,I Love You So,I Love You So,88,4SqWKzw0CbA05TGszDgMlc,0.575,0.648,10,-4.891,1,0.0358,0.0,0.115,0.466,75.977,160240,4
+32,Harry Styles,Harry's House,As It Was,91,4Dvkj6JhhA12EX05fT7y2e,0.52,0.731,6,-5.338,0,0.0557,0.00101,0.311,0.662,173.93,167303,4
+33,Nadin Amizah,Selamat Ulang Tahun,Bertaut,75,630DpnzdfjdVqv2yLfPbAX,0.47,0.131,6,-13.29,1,0.0362,0.00245,0.109,0.115,118.836,315961,3
+34,Fabio Asher,Bertahan Terluka,Bertahan Terluka,76,6gNG7O2IlMYUXAcCDwQrPT,0.325,0.345,5,-9.536,1,0.0311,0.0,0.0726,0.135,77.835,240760,4
+35,Budi Doremi,Dua Warna Cinta,Mesin Waktu,69,1MgEuKnMKzbODJ5Ez94I64,0.448,0.309,9,-9.328,1,0.0283,0.0,0.13,0.385,139.977,262735,4
+36,Juicy Luicy,Tampar,Tampar,74,2RHm5IDIZ8fYRGzBIo7exV,0.459,0.377,6,-9.024,1,0.0314,0.0,0.0947,0.433,169.896,202825,4
+37,Tiara Andini,Tiara Andini,Merasa Indah,76,3Ysf0Y3iu23mrDsVh1mdu0,0.386,0.416,4,-10.543,1,0.0306,1.07e-05,0.119,0.345,122.536,220250,4
+38,Jung Kook,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],89,1RDvyOk4WtPCtoqciJwVn8,0.71,0.879,0,-4.218,1,0.0422,0.00142,0.439,0.341,114.993,201391,4
+39,NIKI,Nicole,High School in Jakarta,73,1zxfRSZcaonV1VXcY0PgY5,0.873,0.488,7,-8.285,0,0.0413,0.000132,0.153,0.462,119.983,219040,4
+40,Vierra,Storytelling,Seandainya,73,1VMtsqCaMNErFRmmvt4exv,0.252,0.827,2,-4.971,1,0.0321,0.000287,0.219,0.477,93.968,263467,3
+41,Ruth B.,Safe Haven,Dandelions,89,2eAvDnpXP5W0cVtiI0PUxV,0.609,0.692,1,-2.958,1,0.0259,0.0,0.0864,0.454,116.959,233720,3
+42,Mahalini,Melawan Restu,Melawan Restu,76,6shEr6AgLBDlfYlax2UzzL,0.626,0.344,7,-7.867,1,0.0318,0.0,0.0773,0.304,119.895,219896,4
+43,Meghan Trainor,Takin' It Back,Made You Look,92,0QHEIqNKsMoOY5urbzN48u,0.838,0.525,10,-3.562,1,0.0665,1.92e-06,0.0771,0.884,144.981,134256,4
+44,Tiara Andini,Tiara Andini,Janji Setia,75,1AoBdDIOp6RFjAbzcPbWi8,0.474,0.411,4,-7.946,1,0.0278,5.85e-05,0.285,0.29,127.992,261000,4
+45,Sam Smith,Unholy (feat. Kim Petras),Unholy (feat. Kim Petras),100,3nqQXoyQOWXiESFLlDF1hG,0.714,0.472,2,-7.375,1,0.0864,4.51e-06,0.266,0.238,131.121,156943,4
+46,Tulus,Manusia,Interaksi,75,32Pdf9eyXDEMoClEJW6yYP,0.464,0.344,9,-8.302,1,0.033,1.23e-06,0.132,0.751,177.713,170000,4
+47,Tulus,Monokrom,Langit Abu-Abu,75,2FaquTc3FYvNm7RuO1gD6O,0.485,0.133,2,-10.7,1,0.058,0.0,0.106,0.366,100.593,202951,3
+48,Charlie Puth,CHARLIE,Left and Right (Feat. Jung Kook of BTS),83,5Odq8ohlgIbQKMZivbWkEo,0.881,0.592,2,-4.898,1,0.0324,1.32e-05,0.0901,0.719,101.058,154487,4
+49,Rizky Febian,Hingga Tua Bersama,Hingga Tua Bersama,76,5b0NpyYAwW2dUGL08ir7Bg,0.579,0.459,10,-8.741,1,0.0269,5.28e-06,0.123,0.375,123.956,270926,4
