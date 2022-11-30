@@ -7,6 +7,8 @@ from airflow.utils.dates import days_ago
 import spotipy
 import pandas as pd
 from spotipy.oauth2 import SpotifyOAuth, SpotifyClientCredentials
+import psycopg2
+from sqlalchemy import create_engine
 
 
 
@@ -22,8 +24,8 @@ default_args = {
 }
 
 def get_playlist(creator, playlist_id, country):
-    SPOTIPY_CLIENT_ID = 'c7e4614e974f4ec4aa0a546d38b452bd'
-    SPOTIPY_CLIENT_SECRET ='c75ecae357c44127b3c1b00f79425881'
+    SPOTIPY_CLIENT_ID = 'a4ce8902dd7348638f9a7e2b141a7a78'
+    SPOTIPY_CLIENT_SECRET ='a7109ef5087f44a09d67be493c67de78'
     SPOTIPY_REDIRECT_URI = 'https://example.com/callback/'
 
     auth_manager = SpotifyClientCredentials(client_id=SPOTIPY_CLIENT_ID, client_secret=SPOTIPY_CLIENT_SECRET)
@@ -58,9 +60,20 @@ def get_playlist(creator, playlist_id, country):
         playlist_df = pd.concat([playlist_df, track_df], ignore_index = True)
 
     #Step 3
-        
+    conn_string = 'postgres://postgres:hujanbadai@host.docker.internal/spotipi'
+  
+    db = create_engine(conn_string)
+    conn = db.connect()
     playlist_df.to_csv("/opt/airflow/data/spotify_sadd.csv")
+
+    playlist_df.to_sql('spotipi', con=conn, if_exists='append',
+          index=False)
+    conn = psycopg2.connect(conn_string
+                        )
+    conn.autocommit = True
+    conn.close()
     return playlist_df
+
 
 with DAG(
     'spotify_dags_v10',
@@ -81,3 +94,4 @@ with DAG(
     )
 
     run_etl
+    
